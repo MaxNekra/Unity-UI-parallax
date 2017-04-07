@@ -1,0 +1,1 @@
+UI parallax in Unity 5.5 and above
